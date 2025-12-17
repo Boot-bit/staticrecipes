@@ -1,0 +1,2969 @@
+# Copyright (C) 2017 NewsPlus Shortcodes
+# This file is distributed under the same license as the NewsPlus Shortcodes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsPlus Shortcodes 3.6.0\n"
+"POT-Creation-Date: 2020-01-06 16:01+0530\n"
+"PO-Revision-Date: 2020-01-06 16:01+0530\n"
+"Last-Translator: Saurabh <saagar_1982@yahoo.com>\n"
+"Language-Team: \n"
+"Language: ar_SA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: ../includes/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: ../includes/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: ../includes/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: ../includes/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: ../includes/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: ../newsplus-post-templates/card.php:66
+#: ../newsplus-post-templates/gallery.php:40
+#: ../newsplus-post-templates/grid.php:65
+#: ../newsplus-post-templates/list-big.php:77
+#: ../newsplus-post-templates/list-small.php:78
+#: ../newsplus-post-templates/overlay.php:65
+#: ../newsplus-post-templates/slider-card.php:83
+#: ../newsplus-post-templates/slider-grid.php:82
+#: ../newsplus-post-templates/slider-overlay.php:82
+msgid "Advertisement"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:112
+msgid "Prep Time"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:118
+msgid "Cook Time"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:124
+msgid "Total Time"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:130
+msgctxt "Recipe yield or outcome"
+msgid "Yield"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:137
+msgctxt "Label for recipe calories"
+msgid "Energy"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:138
+#, php-format
+msgctxt "xx calories"
+msgid "%s cal"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:161
+msgid "Cuisine"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:168
+msgid "Course"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:175 ../newsplus-shortcodes.php:4139
+msgid "Cooking Method"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:182
+msgid "Suitable for diet"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:262 ../newsplus-shortcodes.php:4316
+msgid "Total Fat"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:271 ../newsplus-shortcodes.php:4324
+msgid "Saturated Fat"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:280 ../newsplus-shortcodes.php:4332
+msgid "Trans Fat"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:289 ../newsplus-shortcodes.php:4340
+msgid "Polyunsaturated Fat"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:298 ../newsplus-shortcodes.php:4348
+msgid "Monounsaturated Fat"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:307 ../newsplus-shortcodes.php:4356
+msgid "Cholesterol"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:316 ../newsplus-shortcodes.php:4364
+msgid "Sodium"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:325 ../newsplus-shortcodes.php:4372
+msgid "Total Carbohydrate"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:334 ../newsplus-shortcodes.php:4380
+msgid "Dietary Fiber"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:343 ../newsplus-shortcodes.php:4388
+msgid "Total Sugars"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:352 ../newsplus-shortcodes.php:4396
+msgid "Added Sugars"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:361 ../newsplus-shortcodes.php:4404
+msgid "Sugar Alcohal"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:370 ../newsplus-shortcodes.php:4412
+msgid "Protein"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:379 ../newsplus-shortcodes.php:4420
+msgid "Vitamin D (Cholecalciferol)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:388 ../newsplus-shortcodes.php:4428
+msgid "Calcium"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:397 ../newsplus-shortcodes.php:4436
+msgid "Iron"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:406 ../newsplus-shortcodes.php:4444
+msgid "Potassium"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:415 ../newsplus-shortcodes.php:4452
+msgid "Vitamin A"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:424 ../newsplus-shortcodes.php:4460
+msgid "Vitamin C (Ascorbic Acid)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:433 ../newsplus-shortcodes.php:4468
+msgid "Vitamin E (Tocopherol)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:442 ../newsplus-shortcodes.php:4476
+msgid "Vitamin K"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:451 ../newsplus-shortcodes.php:4484
+msgid "Vitamin B1 (Thiamin)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:460 ../newsplus-shortcodes.php:4492
+msgid "Vitamin B2 (Riboflavin)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:469 ../newsplus-shortcodes.php:4500
+msgid "Vitamin B3 (Niacin)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:478 ../newsplus-shortcodes.php:4508
+msgid "Vitamin B6 (Pyridoxine)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:487 ../newsplus-shortcodes.php:4516
+msgid "Folate"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:496 ../newsplus-shortcodes.php:4524
+msgid "Vitamin B12 (Cobalamine)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:505 ../newsplus-shortcodes.php:4532
+msgid "Biotin"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:514 ../newsplus-shortcodes.php:4540
+msgid "Choline"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:523 ../newsplus-shortcodes.php:4548
+msgid "Vitamin B5 (Pantothenic acid)"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:532 ../newsplus-shortcodes.php:4556
+msgid "Phosphorus"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:541 ../newsplus-shortcodes.php:4564
+msgid "Iodine"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:550 ../newsplus-shortcodes.php:4572
+msgid "Magnesium"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:559 ../newsplus-shortcodes.php:4580
+msgid "Zinc"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:568 ../newsplus-shortcodes.php:4588
+msgid "Selenium"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:577 ../newsplus-shortcodes.php:4596
+msgid "Copper"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:586 ../newsplus-shortcodes.php:4604
+msgid "Manganese"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:595 ../newsplus-shortcodes.php:4612
+msgid "Chromium"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:604 ../newsplus-shortcodes.php:4620
+msgid "Molybdenum"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:613 ../newsplus-shortcodes.php:4628
+msgid "Chloride"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:636 ../newsplus-shortcodes.php:4279
+msgid "Serving Size"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:645
+msgid "Amount per serving"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:650
+msgid "Calories"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:656
+msgid "% Daily Value*"
+msgstr ""
+
+#: ../newsplus-post-templates/recipe.php:688
+msgid ""
+"*Percent Daily Values are based on a 2,000 calorie diet. Your daily values "
+"may be higher or lower depending on your calorie needs."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:120 ../newsplus-shortcodes.php:170
+#, php-format
+msgid "View all recipies tagged %s"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:130 ../newsplus-shortcodes.php:180
+#, php-format
+msgid "View all recipies in %s"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:237
+#, php-format
+msgctxt "xx hours"
+msgid "%s hr"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:242
+#, php-format
+msgctxt "xx minutes"
+msgid "%s min"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:247
+#, php-format
+msgctxt "xx hour yy minutes"
+msgid "%1$s hr %2$s min"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:438 ../newsplus-shortcodes.php:1332
+msgid "Read more"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:455
+#, php-format
+msgctxt "human time difference. E.g. 10 days ago"
+msgid "%s ago"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:458
+#, php-format
+msgctxt "date - separator - time"
+msgid ""
+"%s<span class=\"sep time-sep\"></span><span class=\"publish-time\">%s</span>"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:489
+#, php-format
+msgctxt "more count for category list"
+msgid "+ %d more"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:531
+#, php-format
+msgid "More posts by %s"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:551
+msgctxt "post published date label"
+msgid "Published: "
+msgstr ""
+
+#: ../newsplus-shortcodes.php:558
+#, php-format
+msgctxt "updated on date, time"
+msgid ""
+"Updated: %s<span class=\"sep time-sep\"></span><span class=\"updated-time\">"
+"%s</a>"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:571
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:592
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:706
+msgid "Share this post"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:712
+msgid "Share on twitter"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:712 ../newsplus-shortcodes.php:3105
+#: ../newsplus-shortcodes.php:3505 ../newsplus-shortcodes.php:3717
+msgid "Twitter"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:716
+msgid "Share on facebook"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:716 ../newsplus-shortcodes.php:3106
+#: ../newsplus-shortcodes.php:3506 ../newsplus-shortcodes.php:3718
+msgid "Facebook"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:721
+msgid "Share on Whatsapp"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:721 ../newsplus-shortcodes.php:3107
+#: ../newsplus-shortcodes.php:3507 ../newsplus-shortcodes.php:3719
+msgid "Whatsapp"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:726
+msgid "Share on Google+"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:726
+msgid "Google+"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:730
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:730 ../newsplus-shortcodes.php:3109
+#: ../newsplus-shortcodes.php:3509 ../newsplus-shortcodes.php:3721
+msgid "LinkedIn"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:738
+msgid "Pin it"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:739 ../newsplus-shortcodes.php:3110
+#: ../newsplus-shortcodes.php:3510 ../newsplus-shortcodes.php:3722
+msgid "Pinterest"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:744
+msgid "Share via VK"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:744
+msgid "VKOntakte"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:748
+msgid "Share on Reddit"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:748 ../newsplus-shortcodes.php:3112
+#: ../newsplus-shortcodes.php:3512 ../newsplus-shortcodes.php:3724
+msgid "Reddit"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:752
+msgid "Email this"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:752
+msgid "Email"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:1254 ../newsplus-shortcodes.php:1477
+msgid ""
+"No posts found matching your query. Please try again by changing post "
+"parameters."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:1746
+msgid "Breaking News"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:1905 ../newsplus-shortcodes.php:4219
+#: ../newsplus-shortcodes.php:4225
+msgid "Ingredients"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:1906 ../newsplus-shortcodes.php:4051
+msgid "Method"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:1916
+msgid "Nutrition Facts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2206
+msgid "Show data from"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2209
+msgid ""
+"Select post types. Use Ctrl + Select or Command + select for mutiple "
+"selection."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2213
+msgid "Number of Posts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2224
+msgid "Provide number of posts to show. E.g. 10"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2230
+msgid "Taxonomy"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2233
+msgid "Select taxonomy"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2241
+msgid "Select terms"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2246
+msgid "Filter by Post, page or Custom post types"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2249
+msgid ""
+"Type keywords to search for a post or page. Then click on result to include "
+"a post or page."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2255
+msgid "Filter by Author IDs"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2258
+msgid "Provide numeric IDs of Authors, separated by comma. E.g. 2,6"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2262
+msgid "Offset"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2273
+msgid ""
+"Provide an offset number. E.g. 2. Offset is used to skip a particular number "
+"of posts from loop."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2278
+msgid "Order"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2281
+msgid "Descending"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2282
+msgid "Ascending"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2285
+msgid "Select posts order."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2290
+msgid "Order by"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2293 ../newsplus-shortcodes.php:4029
+#: ../newsplus-shortcodes.php:4732 ../newsplus-shortcodes.php:4818
+msgid "None"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2294
+msgid "ID"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2295
+msgid "Author"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2296
+msgid "Title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2297
+msgid "Name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2298
+msgid "Post Type"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2299
+msgid "Date"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2300
+msgid "Last Modified"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2301
+msgid "Parent ID"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2302
+msgid "Random"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2303
+msgid "Comment Count"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2304
+msgid "Menu Order"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2305
+msgid "Post In"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2308
+msgid "Select posts orderby criteria."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2315
+msgid "Check to ignore sticky posts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2316
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2329
+msgid "Heading tag"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2341
+msgid "Select heading tag for post title."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2345
+msgid "Heading size"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2349 ../newsplus-shortcodes.php:2402
+msgctxt "dropdown label"
+msgid "Select"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2359
+msgid "Select heading font size for post title."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2364 ../newsplus-shortcodes.php:2367
+msgid "Hide post excerpt"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2369
+msgid "Check to hide post excerpt in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2377
+msgid "Excerpt tag"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2390
+msgid "Select tag for post excerpt."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2398
+msgid "Excerpt Size"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2410
+msgid "Select font size for post excerpt."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2419 ../newsplus-shortcodes.php:2422
+msgid "Use word length"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2424
+msgid "Check to enable trimming in word length instead of character length."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2432
+msgid "Excerpt length"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2443
+msgid ""
+"Provide excerpt length in characters or words. If enabled word length, "
+"provide length in words. E.g. 20"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2452 ../newsplus-shortcodes.php:2455
+#: ../newsplus-shortcodes.php:2705
+msgid "Show readmore link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2458 ../newsplus-shortcodes.php:2708
+msgid "Check to show a readmore link."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2462
+msgid "Readmore text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2466
+msgid "The text for readmore button."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2475
+msgid "Use short title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2478
+msgid "Enable short titles support"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2480
+msgid ""
+"Check to enable short titles. The posts must have \"np_short_title\" custom "
+"field with the value as short title."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2485
+msgid "Use external links"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2488
+msgid "Enable external links"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2490
+msgid ""
+"Check to enable external link on post title and thumbnail. The posts must "
+"have custom field \"np_custom_link\" with value as external link."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2496
+msgid "Heading tag for sub tiles"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2508
+msgid "Select heading tag for post title in sub tiles."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2512
+msgid "Heading size for sub tiles"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2525
+msgid "Select heading font size for post title in sub tiles."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2536 ../newsplus-shortcodes.php:2539
+#: ../newsplus-shortcodes.php:2628 ../newsplus-shortcodes.php:2631
+msgid "Hide category links"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2541 ../newsplus-shortcodes.php:2634
+msgid "Check to hide category links in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2550 ../newsplus-shortcodes.php:2553
+#: ../newsplus-shortcodes.php:2639 ../newsplus-shortcodes.php:2642
+msgid "Hide review stars"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2555 ../newsplus-shortcodes.php:2645
+msgid ""
+"Check to hide review stars in post module. The review feature requires WP "
+"Review plugin."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2564 ../newsplus-shortcodes.php:2650
+msgid "Hide post date"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2567 ../newsplus-shortcodes.php:2653
+msgid "Hide post publish date"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2569 ../newsplus-shortcodes.php:2655
+msgid "Check to hide post publish date in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2573
+msgid "Date format"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2577
+msgid ""
+"Provide a <a target=\"_blank\" href=\"https://codex.wordpress.org/"
+"Formatting_Date_and_Time\">date format</a> for post date. Use 'human' for "
+"\"xx days ago\" format."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2586 ../newsplus-shortcodes.php:2589
+#: ../newsplus-shortcodes.php:2660 ../newsplus-shortcodes.php:2663
+msgid "Hide author link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2591 ../newsplus-shortcodes.php:2665
+msgid "Check to hide author link in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2596 ../newsplus-shortcodes.php:2599
+#: ../newsplus-shortcodes.php:2670 ../newsplus-shortcodes.php:2673
+msgid "Hide views number"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2601 ../newsplus-shortcodes.php:2676
+msgid ""
+"Check to hide views number in post module. The views feature requires Post "
+"Views Counter plugin."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2606 ../newsplus-shortcodes.php:2609
+#: ../newsplus-shortcodes.php:2681 ../newsplus-shortcodes.php:2684
+msgid "Hide comments link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2611 ../newsplus-shortcodes.php:2687
+msgid "Check to hide comments link in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2616 ../newsplus-shortcodes.php:2619
+#: ../newsplus-shortcodes.php:2692 ../newsplus-shortcodes.php:2695
+msgid "Show author avatar"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2621 ../newsplus-shortcodes.php:2697
+msgid "Check to show author avatar in post meta"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2702
+msgid "Show readmore link in sub tiles"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2719
+msgid "Enable schema support"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2722
+msgid "Enable schema support in generated content"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2724
+msgid "Check to enable schema markup in generated content."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2728
+msgid "Add publisher logo"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2730
+msgid "Add your site logo for publisher image schema."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2743
+msgid "Posts Module"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2744
+msgid "Display posts in various styles"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2764 ../newsplus-shortcodes.php:3149
+msgid "Grid"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2765
+msgid "List (Big thumbnails)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2766
+msgid "List (Small thumbnails)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2767 ../newsplus-shortcodes.php:3150
+msgid "Card"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2768
+msgid "Gallery"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2769 ../newsplus-shortcodes.php:3151
+msgid "Overlay"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2772
+msgid "Select a display style for posts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2786
+msgid "Select number of columns for Grid or Gallery template."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2798 ../newsplus-shortcodes.php:3162
+msgid "White Cutout"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2799 ../newsplus-shortcodes.php:3163
+msgid "Dark Scrim"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2802 ../newsplus-shortcodes.php:3166
+msgid "Select a display style for overlay content"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2820
+msgid ""
+"Select a layout split ratio (%) for thumbnail + content in list style module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2829 ../newsplus-shortcodes.php:2832
+msgid "Enable masonry layout"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2834
+msgid "Check to enable masonry layout for grid and gallery template style."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2843
+msgid "Enable lightbox"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2846
+msgid "Enable lightbox on gallery"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2848
+msgid "Check to enable lightbox on gallery template type."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2857
+msgid "Show titles"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2860
+msgid "Show titles on hover"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2862
+msgid "Check to enable titles on hover in gallery thumbnail"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2870 ../newsplus-shortcodes.php:3314
+#: ../newsplus-shortcodes.php:3953 ../newsplus-shortcodes.php:4742
+msgid "Image width"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2881 ../newsplus-shortcodes.php:3325
+msgid "Provide image width (in px, without unit) for the thumbnail image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2885 ../newsplus-shortcodes.php:3329
+#: ../newsplus-shortcodes.php:3973 ../newsplus-shortcodes.php:4757
+msgid "Image height"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2896 ../newsplus-shortcodes.php:3340
+msgid "Provide image height (in px, without unit) for the thumbnail image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2900 ../newsplus-shortcodes.php:3344
+#: ../newsplus-shortcodes.php:3584 ../newsplus-shortcodes.php:3992
+#: ../newsplus-shortcodes.php:4772
+msgid "Image quality"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2911 ../newsplus-shortcodes.php:3356
+#: ../newsplus-shortcodes.php:3596 ../newsplus-shortcodes.php:4003
+msgid "Provide image quality (in %, without unit) for the thumbnail image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2916 ../newsplus-shortcodes.php:3361
+#: ../newsplus-shortcodes.php:4012 ../newsplus-shortcodes.php:4788
+msgid "Image Crop"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2919 ../newsplus-shortcodes.php:3364
+#: ../newsplus-shortcodes.php:4015 ../newsplus-shortcodes.php:4791
+msgid "Enable hard crop mode"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2921 ../newsplus-shortcodes.php:3366
+#: ../newsplus-shortcodes.php:4017
+msgid "Check to enable hard cropping of thumbnail image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2929 ../newsplus-shortcodes.php:3374
+msgid "Hide image thumbnail"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2932 ../newsplus-shortcodes.php:3377
+msgid "Check to hide image thumbnail"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2940 ../newsplus-shortcodes.php:3385
+msgid "Hide video embed"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2943 ../newsplus-shortcodes.php:3388
+msgid ""
+"Check to hide video embed in post module. If featured image is available, it "
+"will be shown, else video screenshot will be automatically detected and "
+"loaded."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2950 ../newsplus-shortcodes.php:3395
+msgid ""
+"Provide custom field name for videos. Use this option if your posts already "
+"have custom field for videos, with value as valid video URL."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2958 ../newsplus-shortcodes.php:3402
+#: ../newsplus-shortcodes.php:3604
+msgid "Any extra class which you wish to add to the post module container."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2966 ../newsplus-shortcodes.php:3410
+msgid "Any extra class which you wish to add to the post thumbnail container."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2971
+msgid "Show post excerpt (for list-small template)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2974
+msgid "Show post excerpt"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2976
+msgid "Check to show post excerpt in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2986
+msgid "Show category links (for list-small template)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2989
+msgid "Show category links"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:2991
+msgid "Check to show category links in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3001
+msgid "Show review stars (for list-small template)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3004
+msgid "Show review stars"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3006
+msgid "Check to show review stars in post module."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3025 ../newsplus-shortcodes.php:3425
+#: ../newsplus-shortcodes.php:3621 ../newsplus-shortcodes.php:3803
+#: ../newsplus-shortcodes.php:5076 ../newsplus-shortcodes.php:5079
+msgid "Styling"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3028 ../newsplus-shortcodes.php:3084
+#: ../newsplus-shortcodes.php:3428 ../newsplus-shortcodes.php:3484
+#: ../newsplus-shortcodes.php:3624 ../newsplus-shortcodes.php:3696
+#: ../newsplus-shortcodes.php:3806 ../newsplus-shortcodes.php:3825
+#: ../newsplus-shortcodes.php:5100
+msgid "Custom CSS"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3034 ../newsplus-shortcodes.php:3434
+#: ../newsplus-shortcodes.php:3630 ../newsplus-shortcodes.php:3812
+#: ../newsplus-shortcodes.php:4892 ../newsplus-shortcodes.php:5085
+msgid "General"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3035 ../newsplus-shortcodes.php:3041
+#: ../newsplus-shortcodes.php:3055 ../newsplus-shortcodes.php:3435
+#: ../newsplus-shortcodes.php:3441 ../newsplus-shortcodes.php:3455
+#: ../newsplus-shortcodes.php:3631 ../newsplus-shortcodes.php:3637
+#: ../newsplus-shortcodes.php:3653 ../newsplus-shortcodes.php:3667
+#: ../newsplus-shortcodes.php:3813 ../newsplus-shortcodes.php:5086
+msgid "Font family"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3035 ../newsplus-shortcodes.php:3435
+#: ../newsplus-shortcodes.php:3631
+msgid ""
+"This font family will apply to the post module container and it's child "
+"items."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3038 ../newsplus-shortcodes.php:3438
+#: ../newsplus-shortcodes.php:3634
+msgid "Heading"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3039 ../newsplus-shortcodes.php:3439
+#: ../newsplus-shortcodes.php:3635 ../newsplus-shortcodes.php:3651
+msgid "Heading color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3040 ../newsplus-shortcodes.php:3440
+#: ../newsplus-shortcodes.php:3636 ../newsplus-shortcodes.php:3652
+msgid "Heading hover color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3041 ../newsplus-shortcodes.php:3441
+#: ../newsplus-shortcodes.php:3637
+msgid "This font family will apply to the main post heading."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3042 ../newsplus-shortcodes.php:3056
+#: ../newsplus-shortcodes.php:3442 ../newsplus-shortcodes.php:3456
+#: ../newsplus-shortcodes.php:3638 ../newsplus-shortcodes.php:3654
+#: ../newsplus-shortcodes.php:3668 ../newsplus-shortcodes.php:5087
+msgid "Font size"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3043 ../newsplus-shortcodes.php:3057
+#: ../newsplus-shortcodes.php:3443 ../newsplus-shortcodes.php:3457
+#: ../newsplus-shortcodes.php:3639 ../newsplus-shortcodes.php:3655
+#: ../newsplus-shortcodes.php:3669 ../newsplus-shortcodes.php:5088
+msgid "Line height"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3044 ../newsplus-shortcodes.php:3058
+#: ../newsplus-shortcodes.php:3444 ../newsplus-shortcodes.php:3458
+#: ../newsplus-shortcodes.php:3640 ../newsplus-shortcodes.php:3656
+#: ../newsplus-shortcodes.php:3670 ../newsplus-shortcodes.php:5089
+msgid "Font weight"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3045 ../newsplus-shortcodes.php:3059
+#: ../newsplus-shortcodes.php:3445 ../newsplus-shortcodes.php:3459
+#: ../newsplus-shortcodes.php:3641 ../newsplus-shortcodes.php:3657
+#: ../newsplus-shortcodes.php:3671 ../newsplus-shortcodes.php:5090
+msgid "Font style"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3046 ../newsplus-shortcodes.php:3060
+#: ../newsplus-shortcodes.php:3446 ../newsplus-shortcodes.php:3460
+#: ../newsplus-shortcodes.php:3642 ../newsplus-shortcodes.php:3658
+#: ../newsplus-shortcodes.php:3672 ../newsplus-shortcodes.php:5091
+msgid "Text align"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3047 ../newsplus-shortcodes.php:3061
+#: ../newsplus-shortcodes.php:3447 ../newsplus-shortcodes.php:3461
+#: ../newsplus-shortcodes.php:3643 ../newsplus-shortcodes.php:3659
+#: ../newsplus-shortcodes.php:3673 ../newsplus-shortcodes.php:5092
+msgid "Text shadow"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3048 ../newsplus-shortcodes.php:3062
+#: ../newsplus-shortcodes.php:3448 ../newsplus-shortcodes.php:3462
+#: ../newsplus-shortcodes.php:3644 ../newsplus-shortcodes.php:3660
+#: ../newsplus-shortcodes.php:3674 ../newsplus-shortcodes.php:5093
+msgid "Text transform"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3049 ../newsplus-shortcodes.php:3063
+#: ../newsplus-shortcodes.php:3449 ../newsplus-shortcodes.php:3463
+#: ../newsplus-shortcodes.php:3645 ../newsplus-shortcodes.php:3661
+#: ../newsplus-shortcodes.php:3675 ../newsplus-shortcodes.php:5094
+msgid "Text decoration"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3050 ../newsplus-shortcodes.php:3064
+#: ../newsplus-shortcodes.php:3450 ../newsplus-shortcodes.php:3464
+#: ../newsplus-shortcodes.php:3646 ../newsplus-shortcodes.php:3662
+#: ../newsplus-shortcodes.php:3676 ../newsplus-shortcodes.php:5095
+msgid "Letter spacing"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3051 ../newsplus-shortcodes.php:3065
+#: ../newsplus-shortcodes.php:3451 ../newsplus-shortcodes.php:3465
+#: ../newsplus-shortcodes.php:3647 ../newsplus-shortcodes.php:3663
+#: ../newsplus-shortcodes.php:3677 ../newsplus-shortcodes.php:5096
+msgid "Word break"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3054 ../newsplus-shortcodes.php:3454
+#: ../newsplus-shortcodes.php:3666
+msgid "Excerpt"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3055 ../newsplus-shortcodes.php:3455
+#: ../newsplus-shortcodes.php:3667
+msgid "This font family will apply to the post excerpt."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3066 ../newsplus-shortcodes.php:3466
+#: ../newsplus-shortcodes.php:3678
+msgid "Color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3069 ../newsplus-shortcodes.php:3469
+#: ../newsplus-shortcodes.php:3681
+msgid "Meta"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3070 ../newsplus-shortcodes.php:3470
+#: ../newsplus-shortcodes.php:3682
+msgid "Category links background"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3071 ../newsplus-shortcodes.php:3471
+#: ../newsplus-shortcodes.php:3683
+msgid "Category links color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3072 ../newsplus-shortcodes.php:3472
+#: ../newsplus-shortcodes.php:3684
+msgid "Category links hover background"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3073 ../newsplus-shortcodes.php:3473
+#: ../newsplus-shortcodes.php:3685
+msgid "Category links hover color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3074 ../newsplus-shortcodes.php:3474
+#: ../newsplus-shortcodes.php:3686
+msgid "Meta text/link color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3075 ../newsplus-shortcodes.php:3475
+#: ../newsplus-shortcodes.php:3687
+msgid "Meta links hover color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3078 ../newsplus-shortcodes.php:3478
+#: ../newsplus-shortcodes.php:3690
+msgid "Review"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3079 ../newsplus-shortcodes.php:3479
+#: ../newsplus-shortcodes.php:3691
+msgid "Star background color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3080 ../newsplus-shortcodes.php:3480
+#: ../newsplus-shortcodes.php:3692
+msgid "Star foreground color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3080 ../newsplus-shortcodes.php:3480
+#: ../newsplus-shortcodes.php:3692
+msgid "Click on important attribute flag for priority over default CSS."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3083 ../newsplus-shortcodes.php:3483
+#: ../newsplus-shortcodes.php:3695 ../newsplus-shortcodes.php:3824
+#: ../newsplus-shortcodes.php:5099
+msgid "Custom"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3084 ../newsplus-shortcodes.php:3484
+#: ../newsplus-shortcodes.php:3696 ../newsplus-shortcodes.php:5100
+msgid "Applies to the main post module container."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3091 ../newsplus-shortcodes.php:3491
+#: ../newsplus-shortcodes.php:3703
+msgid "Social"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3094 ../newsplus-shortcodes.php:3494
+#: ../newsplus-shortcodes.php:3706
+msgid "Social sharing"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3096 ../newsplus-shortcodes.php:3496
+#: ../newsplus-shortcodes.php:3708
+msgid "Check to enable social sharing for post modules"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3097 ../newsplus-shortcodes.php:3497
+#: ../newsplus-shortcodes.php:3709
+msgid "Enable social sharing for post modules"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3102 ../newsplus-shortcodes.php:3502
+#: ../newsplus-shortcodes.php:3714
+msgid "Social sharing buttons"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3108 ../newsplus-shortcodes.php:3508
+#: ../newsplus-shortcodes.php:3720
+msgid "Google Plus"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3111 ../newsplus-shortcodes.php:3511
+#: ../newsplus-shortcodes.php:3723
+msgid "VK Ontakte"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3113 ../newsplus-shortcodes.php:3513
+#: ../newsplus-shortcodes.php:3725
+msgid "E Mail"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3115 ../newsplus-shortcodes.php:3515
+#: ../newsplus-shortcodes.php:3727
+msgid ""
+"Select social share buttons. Use Ctrl + Select or Command + select for "
+"mutiple selection."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3128
+msgid "Posts Slider"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3129
+msgid "Display a slider of posts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3145
+msgid "Sub style for items"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3154
+msgid "Choose a substyle for slider items"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3174
+msgid "Number of items"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3185
+msgid "Provide number of items per viewport."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3189
+msgid "Slides margin"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3200
+msgid "Provide margin between slides (in px, without unit)."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3204
+msgid "Slides margin (mobile)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3215
+msgid "Provide margin between slides for mobile (in px, without unit)."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3220
+msgid "Auto height"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3223
+msgid "Enable auto height for slides"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3225
+msgid "Check to enable auto height for slides"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3230
+msgid "Dots navigation"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3233
+msgid "Show dots navigation"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3236
+msgid "Check to enable dots navigation"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3241
+msgid "Prev/Next buttons"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3244
+msgid "Show prev/next buttons"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3247
+msgid "Check to enable previous next buttons"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3252
+msgid "Loop animation"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3255
+msgid "Loop animation infinitely"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3257
+msgid "Check to loop animation infinitely"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3262
+msgid "Autoplay on start"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3265
+msgid "Autoplay slider on start"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3268
+msgid "Check to enable autoplay on start"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3272
+msgid "Animation speed"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3283
+msgid "Provide animation speed for slides (in miliseconds)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3287
+msgid "Animation timeout"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3298
+msgid "Provide animation timeout for slides (in miliseconds)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3306
+msgid "Slide"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3307
+msgid "Fade"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3310
+msgid "Select an effect for slide animation"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3528
+msgid "Posts Tile Grid"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3529
+msgid "Display post grids as tiles"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3545
+msgid "Display style"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3549
+msgid "1 main image + 2x2 Sub"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3550
+msgid "1 main image + 2x3 Sub"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3551
+msgid "4 images per row"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3552
+msgid "3 images per row"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3553
+msgid "2 images per row"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3554
+msgid "1 image per row"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3557
+msgid "Select a display style for tile grid"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3561
+msgid "Viewport width"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3572
+msgid "Provide a viewport width for tiles (in px, without unit)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3576
+msgid "Images aspect ratio"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3580
+msgid ""
+"Provide an aspect ratio for image dimension. E.g. 4:3 ratio will be "
+"calculated as 3/4 = .75"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3650
+msgid "Subheading"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3651
+msgid ""
+"Settings in this section applies to the headings of sub tiles in Tile "
+"template style"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3653
+msgid ""
+"This font family will apply to the smaller headings in sub tiles of tile "
+"tempate."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3740
+msgid "Posts News Ticker"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3741
+msgid "Display posts as news ticker"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3757
+msgid "Title length"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3768
+msgid "Provide new title length in words. E.g. 10"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3772
+msgid "Animation duration"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3783
+msgid "Provide ticker animation duration in miliseconds"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3787
+msgid "Ticker label"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3790
+msgid "Breaking news"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3791
+msgid "Provide a label for news ticker. Leave blank for no label"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3799
+msgid "Any extra class which you wish to add to the ticker contaner."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3813
+msgid "This font family will apply to the entire post ticker."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3816
+msgid "Colors"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3817
+msgid "Label background color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3818
+msgid "Label color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3819
+msgid "Ticker background"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3820
+msgid "Posts title color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3821
+msgid "Posts title hover color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3825
+msgid "Applies to the main ticker container."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3835
+msgid "Recipe Method"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3836
+msgid "Create recipe method step"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3849
+msgid "Recipe Method title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3852
+msgid ""
+"Provide optional method title if you want to group instructions under a "
+"heading."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3859
+msgid "Recipe Generator"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3860
+msgid "Generate recipe content with schema support"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3878
+msgid "Recipe Name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3882
+msgid "Use Post Title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3883
+msgid "Custom Name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3886
+msgid "Choose a name source for Recipe"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3890
+msgid "Custom Recipe Name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3894
+msgid "Provide a name for the recipe"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3902
+msgid "Recipe image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3906
+msgid "Use featured image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3907
+msgid "Select from media library"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3908
+msgid "Use external url"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3911
+msgid "Select image source"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3916
+msgid "Add recipe image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3918
+msgid "Add a recipe image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3927 ../newsplus-shortcodes.php:3929
+msgid "Add external image URL"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3937
+msgid "Image alt text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3941 ../newsplus-shortcodes.php:4716
+msgid "Provide an alternative text for image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3945 ../newsplus-shortcodes.php:4721
+msgid "Image caption"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3949
+msgid "Provide a caption for image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3964
+msgid "Provide image width (in px, without unit) for the recipe image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:3984
+msgid "Provide image height (in px, without unit) for the recipe image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4025 ../newsplus-shortcodes.php:4729
+msgid "Image align"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4030 ../newsplus-shortcodes.php:4733
+msgid "Left"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4031 ../newsplus-shortcodes.php:4734
+msgid "Right"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4032 ../newsplus-shortcodes.php:4735
+msgid "Center"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4036
+msgid ""
+"Select image alignment. Image will be aligned with respect to the summary "
+"text."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4040
+msgid "Recipe Summary"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4044
+msgid "Provide a short summary or description of your recipe"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4048
+msgid "Method Section Heading"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4052
+msgid "Provide a heading for method section"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4059
+msgid "Check to enable auto numbering on method steps"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4060
+msgid "Enable auto numbering on method steps"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4065
+msgid "Other notes"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4069
+msgid "Provide extra notes to be shown at the end of recipe"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4074
+msgid "Enable JSON LD microdata"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4076
+msgid "Enabling this option will add json ld schema data in recipe container."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4077
+msgid "Check to enable json-ld microdata"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4087
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4091
+msgid "American"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4092
+msgid "Chinese"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4093
+msgid "French"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4094
+msgid "Indian"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4095
+msgid "Italian"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4096
+msgid "Japanese"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4097
+msgid "Mediterranean"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4098
+msgid "Mexican"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4101
+msgid "Select recipe cuisine from above list or use custom field below"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4105
+msgid "Other recipe cuisine"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4109
+msgid ""
+"Provide comma separated cuisines if not in above list. E.g. Rajasthani, "
+"Gujarati"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4113
+msgid "Recipe Category"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4117
+msgid "Appetizer"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4118
+msgid "Breakfast"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4119
+msgid "Dessert"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4120
+msgid "Drinks"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4121
+msgid "Main Course"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4122
+msgid "Salad"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4123
+msgid "Snack"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4124
+msgid "Soup"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4127
+msgid "Select recipe categories from above list or use custom field below"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4131
+msgid "Other recipe category"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4135
+msgid ""
+"Provide comma separated categories if not in above list. E.g. Lunch, Starter"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4143
+msgid "Provide a cooking method. E.g. Roasting, Steaming"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4147
+msgid "Preparation Time (Minutes)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4158
+msgid "Provide preparation time (in minutes). E.g. 10"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4163
+msgid "Cooking Time (Minutes)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4174
+msgid "Provide cooking time (in minutes). E.g. 30"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4179
+msgid "Recipe Author"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4183
+msgid "Use Post Author"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4184
+msgid "Custom Author Name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4187
+msgid "Select author name source for recipe"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4191
+msgid "Custom Author name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4195
+msgid "Provide name of author"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4203
+msgid "Author profile URL"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4207
+msgid ""
+"The profile URL of recipe Author. Leave blank to use WordPress user URL."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4216
+msgid "Ingredients Heading"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4220
+msgid "Provide a heading for ingredients section"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4227
+msgid "Add list items for each ingredient group"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4229
+msgid "Add new ingredient group"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4250
+msgid "Ingredients group title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4252
+msgid "Provide a group title for ingredient list. E.g. Ingredients for curry"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4258
+msgid "Ingredients (one per line)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4260
+msgid "Provide list of ingredients, one per line. E.g. 1 cup milk, skimmed"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4271
+msgid "Recipe Yield"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4275
+msgid "Provide a recipe yield. E.g. 1 Pizza, or 1 Bowl Rice"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4283
+msgid "Provide a serving size per container. E.g. 1 Piece(20g), or 100g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4287
+msgid "Calorie per serving (cal)"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4291
+msgid "Provide approximate calories (without unit) per serving. E.g. 240"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4295
+msgid "Suitable for Diet"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4299
+msgid "Diabetic"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4300
+msgid "Gluten Free"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4301
+msgid "Halal"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4302
+msgid "Hindu"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4303
+msgid "Kosher"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4304
+msgid "Low Calorie"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4305
+msgid "Low Fat"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4306
+msgid "Low Lactose"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4307
+msgid "Low Salt"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4308
+msgid "Vegan"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4309
+msgid "Vegetarian"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4312
+msgid ""
+"Select diet for which this recipe is suitable. Remove selection if not "
+"applicable."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4320
+msgid "The amount of Total Fat (g), without unit. Standard daily value is 78g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4328
+msgid ""
+"The amount of Saturated Fat (g), without unit. Standard daily value is 20g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4336
+msgid "The amount of Trans Fat (g), without unit. "
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4344
+msgid "The amount of Polyunsaturated Fat (g), without unit. "
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4352
+msgid "The amount of Monounsaturated Fat (g), without unit. "
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4360
+msgid ""
+"The amount of Cholesterol (mg), without unit. Standard daily value is 300mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4368
+msgid "The amount of Sodium (mg), without unit. Standard daily value is 2300mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4376
+msgid ""
+"The amount of Total Carbohydrate (g), without unit. Standard daily value is "
+"275g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4384
+msgid ""
+"The amount of Dietary Fiber (g), without unit. Standard daily value is 28g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4392
+msgid "The amount of Total Sugars (g), without unit. "
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4400
+msgid ""
+"The amount of Added Sugars (g), without unit. Standard daily value is 50g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4408
+msgid "The amount of Sugar Alcohal (g), without unit. "
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4416
+msgid "The amount of Protein (g), without unit. Standard daily value is 50g"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4424
+msgid ""
+"The amount of Vitamin D (Cholecalciferol) (mcg), without unit. Standard "
+"daily value is 10mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4432
+msgid ""
+"The amount of Calcium (mg), without unit. Standard daily value is 1300mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4440
+msgid "The amount of Iron (mg), without unit. Standard daily value is 18mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4448
+msgid ""
+"The amount of Potassium (mg), without unit. Standard daily value is 4700mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4456
+msgid ""
+"The amount of Vitamin A (mcg), without unit. Standard daily value is 900mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4464
+msgid ""
+"The amount of Vitamin C (Ascorbic Acid) (mg), without unit. Standard daily "
+"value is 90mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4472
+msgid ""
+"The amount of Vitamin E (Tocopherol) (mg), without unit. Standard daily "
+"value is 15mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4480
+msgid ""
+"The amount of Vitamin K (mcg), without unit. Standard daily value is 120mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4488
+msgid ""
+"The amount of Vitamin B1 (Thiamin) (mg), without unit. Standard daily value "
+"is 1.2mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4496
+msgid ""
+"The amount of Vitamin B2 (Riboflavin) (mg), without unit. Standard daily "
+"value is 1.3mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4504
+msgid ""
+"The amount of Vitamin B3 (Niacin) (mg), without unit. Standard daily value "
+"is 16mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4512
+msgid ""
+"The amount of Vitamin B6 (Pyridoxine) (mg), without unit. Standard daily "
+"value is 1.3mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4520
+msgid ""
+"The amount of Folate (mcg), without unit. Standard daily value is 400mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4528
+msgid ""
+"The amount of Vitamin B12 (Cobalamine) (mcg), without unit. Standard daily "
+"value is 2.4mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4536
+msgid "The amount of Biotin (mcg), without unit. Standard daily value is 30mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4544
+msgid ""
+"The amount of Choline (mg), without unit. Standard daily value is 550 mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4552
+msgid ""
+"The amount of Vitamin B5 (Pantothenic acid) (mg), without unit. Standard "
+"daily value is 5mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4560
+msgid ""
+"The amount of Phosphorus (mg), without unit. Standard daily value is 1250mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4568
+msgid ""
+"The amount of Iodine (mcg), without unit. Standard daily value is 150mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4576
+msgid ""
+"The amount of Magnesium (mg), without unit. Standard daily value is 420mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4584
+msgid "The amount of Zinc (mg), without unit. Standard daily value is 11mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4592
+msgid ""
+"The amount of Selenium (mcg), without unit. Standard daily value is 55mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4600
+msgid ""
+"The amount of Copper (mcg), without unit. Standard daily value is 900mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4608
+msgid ""
+"The amount of Manganese (mg), without unit. Standard daily value is 2.3mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4616
+msgid ""
+"The amount of Chromium (mcg), without unit. Standard daily value is 35mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4624
+msgid ""
+"The amount of Molybdenum (mcg), without unit. Standard daily value is 45mcg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4632
+msgid ""
+"The amount of Chloride (mg), without unit. Standard daily value is 2300mg"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4643
+msgid ""
+"If checked, recipe name will not be displayed. It will be used for schema "
+"only"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4644
+msgid "Hide recipe name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4651
+msgid ""
+"If checked, publsh date will not be displayed. It will be used for schema "
+"only"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4652
+msgid "Hide recipe publish date"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4659
+msgid ""
+"If checked, author name will not be displayed. It will be used for schema "
+"only"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4660
+msgid "Hide author name"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4667
+msgid ""
+"If checked, recipe image will not be displayed. It will be used for schema "
+"only"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4668
+msgid "Hide recipe image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4675
+msgid ""
+"If checked, recipe summary will not be displayed. It will be used for schema "
+"only."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4676
+msgid "Hide recipe summary"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4683
+msgid "If checked, nutrition facts section will not be displayed."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4684
+msgid "Hide nutrition facts"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4694 ../newsplus-shortcodes.php:4698
+msgid "Image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4695
+msgid "Display an image with custom sizes"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4706
+msgid "Browse Image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4708
+msgid "Upload or select image from media library"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4713
+msgid "Alternative text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4724
+msgid "Provide a caption for the image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4738 ../newsplus-shortcodes.php:4823
+msgid "Select image alignment"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4753
+msgid "Provide image width (in px, without unit) for the image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4768
+msgid "Provide image height (in px, without unit) for the image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4783
+msgid "Select image quality (in %, without unit) for the image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4793
+msgid "Check to enable hard cropping of image."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4798
+msgid "Colorize image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4801
+msgid "Choose a color for colorizing image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4807
+msgid "Image grayscale"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4809
+msgid "Check to convert image into grayscale"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4810
+msgid "Convert image to grayscale"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4815
+msgid "Image link to"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4819
+msgid "Media file"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4820
+msgid "Custom link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4828
+msgid "Custom link URL"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4831
+msgid "Provide a custom link URL for image"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4840
+msgid "Link rel attribute"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4843
+msgid "Provide a rel attribute for image link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4852
+msgid "Image Title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4855
+msgid "Provide a title for image link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4864
+msgid "Open in new tab"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4866
+msgid "Check to open link in new tab"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4867 ../newsplus-shortcodes.php:4916
+#: ../newsplus-shortcodes.php:4919
+msgid "Open link in new tab"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4872 ../newsplus-shortcodes.php:5070
+msgid "Extra CSS class"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4875
+msgid "Any extra class you wish to add to image container"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4883 ../newsplus-shortcodes.php:4887
+msgid "NewsPlus Title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4884
+msgid "Content title headings in style"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4895
+msgid "Title Text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4897
+msgid "Provide title text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4902
+msgid "Link URL"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4904 ../newsplus-shortcodes.php:4935
+msgid "Provide a link URL for the text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4909
+msgid "Link title attribute"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4911
+msgid "Provide a title attribute for the link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4921
+msgid "Check to open link in new tab."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4926
+msgid "Secondary Text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4928
+msgid "Provide a secondary text for the main text"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4933
+msgid "Secondary Link URL"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4940
+msgid "Sub Link title attribute"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4942
+msgid "Provide a title attribute for the secondary link"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4947 ../newsplus-shortcodes.php:4950
+msgid "Open secondary link in new tab"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4952
+msgid "Check to open secondary link in new tab."
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4956
+msgid "Display"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4959
+msgid "Title Tag"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4973
+msgid "Select a tag for title container"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4978
+msgid "Font Size"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4981 ../newsplus-shortcodes.php:5005
+msgid "12px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4982
+msgid "13px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4983
+msgid "14px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4984 ../newsplus-shortcodes.php:5006
+msgid "16px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4985
+msgid "18px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4986 ../newsplus-shortcodes.php:5007
+msgid "20px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4987 ../newsplus-shortcodes.php:5008
+msgid "24px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4990
+msgid "Select a font size for the title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4995
+msgid "Bottom Margin"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4998
+msgid "Theme Defined"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:4999
+msgid "0px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5000
+msgid "2px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5001
+msgid "4px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5002
+msgid "6px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5003
+msgid "8px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5004
+msgid "10px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5009
+msgid "30px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5010
+msgid "32px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5011
+msgid "36px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5012
+msgid "40px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5013
+msgid "50px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5014
+msgid "60px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5015
+msgid "70px"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5018
+msgid "Select a bottom margin for the label"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5023
+msgid "Title Style"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5026
+msgid "Plain"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5027
+msgid "Flag"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5028
+msgid "Label"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5029
+msgid "Bordered"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5030
+msgid "Bar"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5033
+msgid "Select a display style for title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5038
+msgid "Title Background Color"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5041
+msgid "Default"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5042
+msgid "Aqua"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5043
+msgid "Blue"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5044
+msgid "Brown"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5045
+msgid "Cyan"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5046
+msgid "Dark Blue"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5047
+msgid "Deep Orange"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5048
+msgid "Green"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5049
+msgid "Grey"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5050
+msgid "Indigo"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5051
+msgid "Orange"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5052
+msgid "Pink"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5053
+msgid "Red"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5054
+msgid "Teal"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5057
+msgid "Select a background color for title"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5062
+msgid "Enable round corners"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5064
+msgid "Check to enable round corners on the label"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5065
+msgid "Enable round corners on the label"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5072
+msgid "Any extra class you wish to add to the label container"
+msgstr ""
+
+#: ../newsplus-shortcodes.php:5086
+msgid "This font family will apply to the title."
+msgstr ""
+
+#: ../widgets/widget-categories.php:14
+msgid "Display a custom list of categories using exclude option."
+msgstr ""
+
+#: ../widgets/widget-categories.php:16
+msgid "NewsPlus Categories"
+msgstr ""
+
+#: ../widgets/widget-categories.php:20
+msgid "Categories"
+msgstr ""
+
+#: ../widgets/widget-categories.php:35
+msgid "Select Category"
+msgstr ""
+
+#: ../widgets/widget-categories.php:77 ../widgets/widget-flickr.php:118
+#: ../widgets/widget-minifolio.php:124 ../widgets/widget-popular-posts.php:82
+#: ../widgets/widget-recent-posts.php:125 ../widgets/widget-social-links.php:81
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-categories.php:79
+msgid "Exclude:"
+msgstr ""
+
+#: ../widgets/widget-categories.php:82
+msgid "Category IDs, separated by commas."
+msgstr ""
+
+#: ../widgets/widget-categories.php:85
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../widgets/widget-categories.php:88
+msgid "Show post counts"
+msgstr ""
+
+#: ../widgets/widget-categories.php:91
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:15
+msgid "Display your flickr photostream."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:17
+msgid "NewsPlus Flickr"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:22
+msgid "NewsPlus Flickr Widget"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:120
+msgid "Source:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:122
+msgid "User"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:123
+msgid "User Tag"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:124
+msgid "User Set"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:125
+msgid "All"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:126
+msgid "All Tag"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:127
+msgid "Group"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:131
+msgid "User ID:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:133
+msgid ""
+"This would be a Flickr photostream ID. Eg: 48531931%40N03, where %40 is "
+"replaced for @"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:137
+msgid "User Set ID:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:139
+msgid "If source is User Set, enter your User set Id."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:143
+msgid "Tag:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:145
+msgid "If source is User Tag or All Tag, enter a tag name. Eg: nature"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:149
+msgid "Group ID:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:151
+msgid "If source is Group, enter a Group ID. Example, 92076845@N00"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:154
+msgid "Number of photos to show:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:156
+msgid "(at most 10)"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:158
+msgid "Display Random?"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:160
+msgid "If unchecked, it will show latest photos."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:162
+msgid "Text to appear before gallery:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:164
+msgid "You can use basic HTML here."
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:15
+msgid "Show a mini portfolio from post featured images."
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:17
+msgid "NewsPlus Mini Folio"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:40 ../widgets/widget-popular-posts.php:36
+#: ../widgets/widget-recent-posts.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:128
+msgid "Columns:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:130
+msgid "Enter number of columns per row"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:133 ../widgets/widget-popular-posts.php:85
+#: ../widgets/widget-recent-posts.php:128
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:135
+msgid "Enter number of posts to show"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:138 ../widgets/widget-popular-posts.php:93
+#: ../widgets/widget-recent-posts.php:136
+msgid "Cat IDs to exclude or include:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:141 ../widgets/widget-popular-posts.php:96
+#: ../widgets/widget-recent-posts.php:139
+msgid ""
+"Category IDs, separated by commas. Eg: 3,6,7 to include. Or -3,-6,-7 to "
+"exclude."
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:144 ../widgets/widget-recent-posts.php:141
+msgid "Image width:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:146 ../widgets/widget-recent-posts.php:143
+msgid "Enter a width for image in px (without unit)"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:149 ../widgets/widget-recent-posts.php:146
+msgid "Image height:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:151 ../widgets/widget-recent-posts.php:148
+msgid "Enter a height for image in px (without unit)"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:154 ../widgets/widget-recent-posts.php:151
+msgid "Image quality:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:156 ../widgets/widget-recent-posts.php:153
+msgid "Enter a quality number between 1 to 100. E.g. 80"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:159 ../widgets/widget-recent-posts.php:156
+msgid "Hard crop images:"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:161 ../widgets/widget-recent-posts.php:158
+msgid "Check to enable hard cropping of images"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:164
+msgid "Enable Masonry"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:166
+msgid "Check to enable masonry layout"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:169
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../widgets/widget-minifolio.php:171
+msgid "Check to enable lightbox on images"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:14
+msgid "List popular posts based on most commented."
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:16
+msgid "NewsPlus Popular Posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:87
+#: ../widgets/widget-recent-posts.php:130
+msgid "(at most 15)"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:89
+#: ../widgets/widget-recent-posts.php:132
+msgid "Posts offset"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:91
+#: ../widgets/widget-recent-posts.php:134
+msgid "Provide an offset number to which you wish to skip the posts."
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:98
+#: ../widgets/widget-recent-posts.php:164
+msgid "Hide Thumbnails?"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:100
+msgid "If unchecked, it will show post thumbnails."
+msgstr ""
+
+#: ../widgets/widget-recent-posts.php:14
+msgid "List recent posts with thumbnails from custom categories."
+msgstr ""
+
+#: ../widgets/widget-recent-posts.php:16
+msgid "NewsPlus Recent Posts"
+msgstr ""
+
+#: ../widgets/widget-recent-posts.php:161
+msgid "Enable Schema"
+msgstr ""
+
+#: ../widgets/widget-recent-posts.php:163
+msgid "Check to enable schema markup"
+msgstr ""
+
+#: ../widgets/widget-recent-posts.php:166
+msgid "Check to hide post thumbnails"
+msgstr ""
+
+#: ../widgets/widget-social-links.php:15
+msgid "Social networking icons widget."
+msgstr ""
+
+#: ../widgets/widget-social-links.php:16
+msgid "NewsPlus Social Icons"
+msgstr ""
+
+#: ../widgets/widget-social-links.php:86
+msgid "Check to open links in new tab or window."
+msgstr ""
+
+#: ../widgets/widget-social-links.php:100
+#, php-format
+msgid "Full URL to %s"
+msgstr ""

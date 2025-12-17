@@ -1,0 +1,129 @@
+# <!=Copyright (C) 2025 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom Diaries 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blossom-diaries\n"
+"POT-Creation-Date: 2025-11-14 05:56:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.4\n"
+
+#: functions.php:45
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:58
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:60
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:90
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:91
+msgid "Secondary color of the theme."
+msgstr ""
+
+#: functions.php:397
+msgid " Blossom Diaries | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:400
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:522
+msgid "You may also like..."
+msgstr ""
+
+#: includes/extras.php:55
+msgid "primary menu toggle"
+msgstr ""
+
+#: includes/extras.php:78
+msgid "search form toggle"
+msgstr ""
+
+#: includes/extras.php:105
+msgid "Open"
+msgstr ""
+
+#: includes/extras.php:114
+msgid "Mobile"
+msgstr ""
+
+#: includes/extras.php:117
+msgid "Close"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blossom Diaries"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/themes/blossom-diaries"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom Diaries is a free feminine blog WordPress theme designed to create "
+"a stunning, lively and eye-catching website. It's perfect for bloggers "
+"interested in sharing insights on fashion, showcasing favorite recipes, or "
+"discussing lifestyle, travel, food, beauty, make-up, coaching, weddings, "
+"portfolios, personal life, parenting, or cooking.  You can easily customize "
+"your website typography and colors to personalize it. The Instagram and "
+"newsletter integration allows you to grow your Instagram audience and "
+"maintain continuous communication with your audience. Blossom Diaries is "
+"built to be SEO-friendly, speed-optimized, and mobile-friendly. Moreover, "
+"it's translation-ready, RTL compatible, and seamlessly works with "
+"WooCommerce. Check the demo at "
+"https://blossomthemes.com/theme-demo/?theme=blossom-diaries, refer to the "
+"documentation at https://docs.blossomthemes.com/blossom-feminine/, and get "
+"support at https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:221
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:222
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:223
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
